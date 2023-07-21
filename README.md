@@ -1,3 +1,4 @@
-# My machine Learning specialization certificate
+# Machine learning
 
-This was fun!) Andrew Ng is the best instructor.
+This was fun!) 
+Andrew Ng is the best instructor.
