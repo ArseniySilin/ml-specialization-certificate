@@ -1,4 +1,3 @@
-# ml-specialization-certificate
-Machine Learning Specialization Certificate
+# My machine Learning specialization certificate
 
-This was fun!) 
+This was fun!) Andrew Ng is the best instructor.
