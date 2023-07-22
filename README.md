@@ -1,4 +1,4 @@
 # Machine learning
 
-This was fun!) 
+It was fun!) 
 Andrew Ng is the best instructor.
